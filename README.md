@@ -1,4 +1,5 @@
-# COCOTOYOLO-Annotations
+# COCO-TO-YOLO format 
+convert coco json file into yolo text file for custom training in java
 Creates a Darknet YOLO compatible image list and label files from a COCO dataset annotations file.
 
 Arguments to the application (in order):
